@@ -1,0 +1,57 @@
+.positions {
+  padding-top: 50px;
+  border-right: 1px solid #d3d3d3;
+  width: 100%;
+  color: $secondary;
+}
+
+.positions h3 {
+  font-size: 1em;
+}
+
+.positions h4 {
+  font-size: 0.75em;
+}
+
+.position-info {
+  padding-top: 50px;
+  padding-left: 30px;
+  color: $secondary;
+}
+
+.position-info h3 {
+  font-size: 1em;
+}
+
+.experience-icon {
+  position: absolute;
+  top: 52px;
+  left: -8px;
+}
+
+.position-info {
+  .fa-graduation-cap {
+    left: -10px;
+  }
+}
+
+.portfolio-modal {
+  img {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+.lang-list {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-left: 10px;
+}
+
+.lang-list {
+  li {
+    margin-left: 10px;
+    float: left;
+  }
+}
