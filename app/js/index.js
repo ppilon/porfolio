@@ -1,9 +1,11 @@
 "use strict";
 
-const $ = require('jquery')
-require("../../vendor/jquery-easing/jquery.easing.min.js");
-require('../../vendor/bootstrap/js/bootstrap.js')
-require('../../vendor/magnific-popup/jquery.magnific-popup.min.js')
+const $ = require('jquery');
+require('bootstrap');
+
+import "../scss/index.scss";
+import '@fortawesome/fontawesome-free/js/all';
+import "magnific-popup";
 
 $(() => {
   // Smooth scrolling using jQuery easing

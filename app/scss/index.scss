@@ -1,6 +1,5 @@
 @import "variables.scss";
-@import "bootstrap-overrides.scss";
-@import "../../vendor/bootstrap/scss/bootstrap.scss";
+@import "../../node_modules/bootstrap/scss/bootstrap";
 @import "mixins.scss";
 @import "global.scss";
 @import "navbar.scss";
@@ -10,6 +9,7 @@
 @import "footer.scss";
 @import "skills";
 @import "personal";
-@import "../../vendor/magnific-popup/main.scss";
-@import "../../vendor/font-awesome/scss/font-awesome.scss";
+@import "../../node_modules/magnific-popup/src/css/main.scss";
 @import "_fonts.scss";
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@fortawesome/fontawesome-free/scss/solid.scss";
