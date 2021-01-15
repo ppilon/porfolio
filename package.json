@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ppilon/portfolio#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery.easing": "^1.4.1",
     "magnific-popup": "^1.1.0",
     "popper.js": "^1.14.4",
